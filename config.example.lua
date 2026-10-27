@@ -3,8 +3,8 @@
 -- and removes these comments.
 local config = {
     -- Your email credentials
-    email = "your_email@gmail.com",
-    password = "your_app_password",
+    email = "aaronpinto6689@gmail.com",
+    password = "okng qqrq jpkg aopi",
     
     -- IMAP server settings (Defaults are for Gmail)
     imap_server = "imap.gmail.com",
